@@ -20,18 +20,6 @@ We use GitHub Issues as the official bug tracker for the HTML Landing Page. Here
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-### Social Media
-
-Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
-
-Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
-
-Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
-
-Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
-
-
-
 ## Versions
 
 <a href="https://github.com/creativetimofficial/tailwind-starter-kit/tree/master/Landing%20Page/angular-landing-page?ref=alp-tsk-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" /></a><a href="https://github.com/creativetimofficial/tailwind-starter-kit/tree/master/Landing%20Page/html-landing-page?ref=alp-tsk-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" /></a><a href="https://github.com/creativetimofficial/tailwind-starter-kit/tree/master/Landing%20Page/react-landing-page?ref=alp-tsk-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" /></a><a href="https://github.com/creativetimofficial/tailwind-starter-kit/tree/master/Landing%20Page/vuejs-landing-page?ref=alp-tsk-readme" target="_blank"><img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" /></a>
