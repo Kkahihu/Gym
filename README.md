@@ -1,10 +1,4 @@
-# <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Flearning-lab%2Ftailwindcss-starter-project%23%2Fpresentation&text=Tailwind%20Starter%20Kit%20by%20Creative%20Tim&original_referer=&via=Creative%20Tim&hashtags=creativetim" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
-
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/tailwind-starter-kit/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/tailwind-starter-kit.svg?maxAge=2592000)</a> <a href="https://github.com/creativetimofficial/tailwind-starter-kit/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/tailwind-starter-kit.svg?maxAge=2592000)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
-
-
-![Product Presentation Image](https://raw.githubusercontent.com/creativetimofficial/tailwind-starter-kit/master/images/landing.jpg)
 
 ## Table of Contents
 
@@ -21,25 +15,7 @@
 
 
 ## Description
-
-### HTML Landing Page
-
-To get started only unzip the downloaded content, enter the `Landing Page/html-landing-page` and open the `.html` file in your favorite Browser.
-
-
-
-## Documentation
-The documentation for the HTML Landing Page is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/#/documentation/landing?ref=hlp-tsk-readme" target="_blank">website</a>.
-
-
-
-<a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/#/landing?ref=hlp-tsk-readme" target="_blank">View More</a>
-
-
-## Quick start
-
-- <a href="https://github.com/creativetimofficial/tailwind-starter-kit/archive/master.zip" target="_blank">Download from Github</a>.
-- <a href="https://github.com/creativetimofficial/tailwind-starter-kit" target="_blank">Check it on Github</a>.
+This is a simple gym website created using HTML and Tailwind CSS.
 
 ## Browser Support
 
