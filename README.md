@@ -10,7 +10,7 @@
 This is a simple gym website created using HTML and Tailwind CSS.
 
 ## Demo
-[Power House](https://kelvinkahihu-gym-website.netlify.app/)
+[Power Room](https://kelvinkahihu-gym-website.netlify.app/)
 
 ## Browser Support
 
