@@ -1,7 +1,7 @@
 ## Looks
-<img src="Front-Page.PNG" alt="front page">
-<img src="Front-Page-2.PNG" alt="front page">
-<img src="Front-Page-3.PNG" alt="front page">
+<img src="assets/img/Front-Page.PNG" alt="front page">
+<img src="assets/img/Front-Page-2.PNG" alt="front page">
+<img src="assets/img/Front-Page-3.PNG" alt="front page">
 
 
 
@@ -52,5 +52,5 @@ Within the download you'll find the following directories and files:
 |               |   |-- regular
 |               |   `-- solid
 |               `-- webfonts
-`-- landing.html
+`-- index.html
 ```
